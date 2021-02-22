@@ -1,3 +1,6 @@
+# simple calculator built with react
+see the live demo [here](https://react-calculator-six.vercel.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
