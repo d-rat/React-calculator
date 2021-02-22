@@ -1,0 +1,16 @@
+.result {
+  height: 100px;
+  width: 320px;
+  background-color: burlywood;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 0.5rem;
+}
+.equation {
+  height: 50px;
+  width: 320px;
+  background-color: chartreuse;
+  border: 1px solid black;
+  padding: 0.2rem;
+}
